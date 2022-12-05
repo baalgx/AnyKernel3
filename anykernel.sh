@@ -4,15 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Soviet kernel NATO66613 @ xda-developers
+kernel.string=POST-SOVIET kernel for Xiaomi Mi 9 by NATO66613, Mihau & balgxmr
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
-do.cleanuponabort=1
-device.name1=raphael
-device.name2=raphaelin
-supported.versions=
+do.cleanuponabort=0
+device.name1=cepheus
+device.name2=Cepheus
+device.name3=cepheus-user
+device.name4=Mi 9
+device.name5=Mi9
 supported.patchlevels=
 '; } # end properties
 
