@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=POST-SOVIET Kernel - Xiaomi Mi 9
+kernel.string=REVUELTO Kernel - Xiaomi Mi 9
 do.devicecheck=1
 do.modules=0
 do.systemless=1
